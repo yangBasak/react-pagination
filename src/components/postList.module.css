@@ -1,0 +1,14 @@
+.postBox {
+  width: 700px;
+  margin: auto;
+  text-align: start;
+}
+.post {
+  border: 1px solid #ddd;
+  padding: 10px 0;
+}
+.post span {
+  display: inline-block;
+  width: 20px;
+  padding: 0 10px;
+}

@@ -1,0 +1,10 @@
+.paginateBox {
+  display: flex;
+  justify-content: center;
+}
+.paginateItem {
+  cursor: pointer;
+  list-style: none;
+  padding: 7px;
+  /* border: 1px solid #ddd; */
+}
